@@ -1,0 +1,9 @@
+# Logs and Databases #
+*.log
+*.sql
+
+.htaccess
+core/*
+config.js
+node_modules/*
+LICENSE
