@@ -37,7 +37,7 @@ body {
 
 	display:table; 
 	background-color:#f5f5f5;
-	font-family:'Courier New',monospace,sans-serif;
+	font-family:'Open Sans',monospace,sans-serif;
 	font-size: 16px; 
 	max-width: 1200px; 
 	margin: 0 auto !important; 
@@ -734,9 +734,6 @@ body .close{
 
 .post.main_pixel #header_img{
 
-	height: 300px;
-	max-height: 300px;
-
 	padding:0em;
 	border: 2em solid #ffffff;
 	border-bottom: 0em solid #ffffff;
@@ -744,15 +741,6 @@ body .close{
 	overflow: hidden;
 
 	background-color: #ffffff;
-
-	background: #ef4836; /* Old browsers */
-	background: -moz-linear-gradient(-45deg,  #ef4836 0%, #f4d03f 100%); /* FF3.6+ */
-	background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#ef4836), color-stop(100%,#f4d03f)); /* Chrome,Safari4+ */
-	background: -webkit-linear-gradient(-45deg,  #ef4836 0%,#f4d03f 100%); /* Chrome10+,Safari5.1+ */
-	background: -o-linear-gradient(-45deg,  #ef4836 0%,#f4d03f 100%); /* Opera 11.10+ */
-	background: -ms-linear-gradient(-45deg,  #ef4836 0%,#f4d03f 100%); /* IE10+ */
-	background: linear-gradient(135deg,  #ef4836 0%,#f4d03f 100%); /* W3C */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ef4836', endColorstr='#f4d03f',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
 
 }
 
